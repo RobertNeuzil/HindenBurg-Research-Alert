@@ -9,7 +9,7 @@ If someone could be immediately notified of these reports, they could profit off
 
 Create a free python anywhere account or a small linux container on aws
 
-Bashp-----
+Bash console -----
 
 pip install requests beautifulsoup4 twilio
 
