@@ -15,6 +15,6 @@ pip install requests beautifulsoup4 twilio
 
 
 You will also need to set up a Twilio account for the outbound phone text
-
+Instructions for the proxy version are commented in the main file
 
 
