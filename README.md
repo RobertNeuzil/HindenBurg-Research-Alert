@@ -1,4 +1,8 @@
+
+
 # HindenBurg-Research-Alert
+The main script is Hindenburg_run.py. Hindenburg_proxy.py is cloudfare workaround and probably not a very good one.
+
 Sends an immediate text alert when HindenBurg publishes a new report.
 
 
