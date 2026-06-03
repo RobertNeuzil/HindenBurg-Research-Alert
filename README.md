@@ -10,6 +10,8 @@ If someone could be immediately notified of these reports, they could profit off
 Create a free python anywhere account or a small linux container on aws
 
 Bash "pip install feedparser twilio"
+
+
 You will also need to set up a Twilio account for the outbound phone text
 
 
